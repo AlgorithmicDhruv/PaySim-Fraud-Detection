@@ -21,14 +21,6 @@ This project focuses on detecting fraudulent transactions in a banking dataset u
   - SMOTE (Synthetic Minority Over-sampling Technique)
 - Feature engineering using hashing for high cardinality columns.
 
-## Installation
-
-To run this project, you'll need to have Python installed along with the required libraries. You can install the necessary libraries using:
-
-```bash
-pip install -r requirements.txt
-```
-
 ## Acknowledgments:
 - PaySim Dataset: Kaggle Dataset
 - Machine Learning Libraries: scikit-learn, LightGBM, XGBoost
